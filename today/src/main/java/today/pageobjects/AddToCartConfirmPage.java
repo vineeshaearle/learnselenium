@@ -6,8 +6,10 @@ import org.openqa.selenium.WebDriver;
 
 import today.components.NavigationMenu;
 
+
 /**
- * Created by michal.dudziak on 13/04/2016.
+ * @author Vinee
+ *
  */
 public class AddToCartConfirmPage {
     private static final By CONFIRM_TEXT_FIELD = By.xpath("//h1[@class='a-size-medium a-text-bold']");

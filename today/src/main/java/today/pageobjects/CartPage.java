@@ -3,8 +3,10 @@ package today.pageobjects;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
+
 /**
- * Created by michal.dudziak on 13/04/2016.
+ * @author Vinee
+ *
  */
 public class CartPage {
     private static final By LIST_ITEM = By.className("a-list-item");

@@ -5,8 +5,10 @@ import org.openqa.selenium.WebDriver;
 
 import today.tests.FirstTests;
 
+
 /**
- * Created by michal.dudziak on 13/04/2016.
+ * @author Vinee
+ *
  */
 public class SearchResultsPage  {
     private static final By SEARCH_RESULT_ITEM_TITLE = By.className("s-access-title");

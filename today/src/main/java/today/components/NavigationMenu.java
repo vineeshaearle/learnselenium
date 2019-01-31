@@ -11,8 +11,11 @@ import today.pageobjects.CartPage;
 import today.pageobjects.LoginPage;
 import today.pageobjects.SearchResultsPage;
 
+
+
 /**
- * Created by michal.dudziak on 13/04/2016.
+ * @author Vinee
+ *
  */
 public class NavigationMenu {
     private static final By SEARCH_DROPDOWN_BOX = By.id("searchDropdownBox");

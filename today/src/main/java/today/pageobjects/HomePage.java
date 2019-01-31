@@ -6,8 +6,10 @@ import org.openqa.selenium.WebDriver;
 
 import today.components.NavigationMenu;
 
+
 /**
- * Created by michal.dudziak on 13/04/2016.
+ * @author Vinee
+ *
  */
 public class HomePage {
     private static final String AMAZON_HOME_PAGE_URL = "http://www.amazon.com";
